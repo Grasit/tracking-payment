@@ -6,7 +6,7 @@
 - Make the page responsive across device's screen size.
 
 ## Screenshot
-- ![Screenshot]
+ ![Screenshot]
 
 ## Links
 - [Solution URL]
