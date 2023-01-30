@@ -19,14 +19,14 @@ The app was kept simple:
 - Flexbox
 - CSS Grid
 - [CSS3] - for styling.
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [markdown] - makes writing on the web fast and easy.
 
 
 [//]: # 
 
    [CSS3]: <https://www.w3.org/Style/CSS/>
    [Live Site URL]: <https://tracking-payment.netlify.app/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [markdown-it]: <https://daringfireball.net/projects/markdown/syntax>
    [Screenshot]: <./images/tracking-screenshot.png>
    [Solution URL]: <https://github.com/Grasit/tracking-payment>
 
