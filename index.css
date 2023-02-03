@@ -837,7 +837,7 @@ input[type=checkbox]{
 
 @media (max-width: 380px){
 h1{
-    font-size: 5rem;
+    font-size: 4rem;
 }
     .grid-item{
         margin-left: -0.1rem;
@@ -874,11 +874,11 @@ h1{
     }
 }
 
-@media (max-width: 350px){
+/* @media (max-width: 350px){
     h1{
         font-size: 4rem;
     }
-}
+} */
 
 @media (min-width: 1450px){
     main{
